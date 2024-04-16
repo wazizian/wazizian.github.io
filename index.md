@@ -23,14 +23,14 @@ See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scho
 
 #### Wasserstein Distributionnally Robust Optimization
  Inspired by the success of entropic regularization in optimal transport, we study the regularization of WDRO ([ESAIM COCV](https://arxiv.org/abs/2205.08826)).
- We also show that these estimators enjoy attractive generalization guarantees ([NeurIPS 23](https://arxiv.org/abs/2305.17076)).
+ We also show that these estimators enjoy attractive generalization guarantees ([NeurIPS 23](https://arxiv.org/abs/2305.17076), [slides](pdf/slides_neurips_2023.pdf)).
 
-I presented early versions of these works at [a workshop in Erice in May 2022](https://workshopsperice2022.github.io/), ([slides](pdf/slides_sicile.pdf)), and the second part at [FOCM 2023](https://focm2023.org/) in Paris, ([poster](pdf/poster_wdro.pdf)).
+I presented early versions of these works at [a workshop in Erice in May 2022](https://workshopsperice2022.github.io/), ([slides](pdf/slides_sicile.pdf)), and the second part at [FOCM 2023](https://focm2023.org/) in Paris, ([poster](pdf/poster_wdro.pdf)) as well at [Neurips@Paris 2023](https://neuripsinparis.github.io/neurips2023paris/) ([slides](pdf/slides_neurips_in_paris_2023.pdf)).
 
 #### Last-iterate convergence of mirror methods
-We characterize the last iterate convergence rate of mirror methods in variational inequalities as a function of the local geometry of the Bregman divergence near the solution, both in the deterministic ([under review](https://arxiv.org/abs/2211.08043)) and stochastic settings ([COLT 21](https://arxiv.org/abs/2107.01906)).
+We characterize the last iterate convergence rate of mirror methods in variational inequalities as a function of the local geometry of the Bregman divergence near the solution, both in the deterministic ([to be published in SIOPT](https://arxiv.org/abs/2211.08043)) and stochastic settings ([COLT 21](https://arxiv.org/abs/2107.01906)).
 
-The latter was presented at COLT 21 ([slides](pdf/slides_colt.pdf), [poster](pdf/poster_colt.pdf)) and at ICCOPT 22 ([slides](pdf/slides_iccopt.pdf)).
+The latter was presented at COLT 21 ([slides](pdf/slides_colt.pdf), [poster](pdf/poster_colt.pdf)) and at ICCOPT 22 ([slides](pdf/slides_iccopt.pdf)) while the former was presented at SMAI MODE 2024 ([slides](pdf/slides_smai_mode2024.pdf)).
 
 #### Graph Neural Networks
 With [Marc Lelarge](https://www.di.ens.fr/~lelarge/), we precisely describe the approximatyion cabapilities of invariant and equivariant graph neural networks ([ICLR 21](https://arxiv.org/abs/2006.15646)). It was presented at a [MIPT-UGA workshop](https://sites.google.com/view/mipt-uga-ai-workshop/home) and at the Thoth team seminar ([slides](pdf/slides_gnn.pdf)).
@@ -42,6 +42,7 @@ With [Gauthier Gidel](https://gauthiergidel.github.io/), [Ioannis Mitliagkas](ht
 ### Teaching
 #### 2023-2024
 - Statistics for biology (second year of bachelor): exercise sessions.
+- Numerical optimization (first year master MSIAM): exercise sessions.
 
 #### 2022-2023
 - Numerical optimization (second year at ENSIMAG): practical sessions in Python/Numpy and exercise sessions.
