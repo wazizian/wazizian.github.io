@@ -22,8 +22,8 @@ My current interest are robust optimization, non-convex stochastic optimization 
 See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html) and [Github](https://github.com/wazizian).
 
 #### Stochastic optimization in deep learning
-In our latest work, that took us more than a year, we seek to answer a simple question: what is the asymptotic distribution of SGD on general non-convex objectives?
-Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241))!
+In our latest work, we seek to answer a simple question: what is the asymptotic distribution of SGD on general non-convex objectives?
+Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](pdf/poster_icml24.pdf)).
 
 #### Wasserstein Distributionnally Robust Optimization
  Inspired by the success of entropic regularization in optimal transport, we study the regularization of WDRO ([ESAIM COCV](https://arxiv.org/abs/2205.08826)).
