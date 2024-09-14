@@ -7,6 +7,7 @@ layout: default
 
 ### About
 I am a PhD student in applied mathematics in Grenoble. I have the honour of having the amazing trio [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/) and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/) as adviors. More precisely, I am at the [LJK lab](https://www-ljk.imag.fr/), which is part of [UGA](https://www.univ-grenoble-alpes.fr/).
+I had the chance to study at [ENS Paris](https://www.ens.psl.eu/) and to graduate from the [MVA master](https://www.master-mva.com/).
 
 ### Contact
 - Email: waiss (dot) azizian (at) univ-grenoble-alpes (dot) fr
