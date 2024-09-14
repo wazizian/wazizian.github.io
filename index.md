@@ -19,7 +19,7 @@ I am in charge of the [team's seminar](https://sites.google.com/view/gorgeous-op
 ### Research
 My current interest are robust optimization, non-convex stochastic optimization and online learning.
 
-See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html) and [Github](https://github.com/wazizian).
+See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html), [Github](https://github.com/wazizian) and [a resume](pdf/resume.pdf).
 
 #### Stochastic optimization in deep learning
 In our latest work, we seek to answer a simple question: what is the asymptotic distribution of SGD on general non-convex objectives?
