@@ -24,7 +24,7 @@ See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scho
 
 #### Stochastic optimization in deep learning
 In our latest work, we seek to answer a simple question: what is the asymptotic distribution of SGD on general non-convex objectives?
-Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](pdf/poster_icml24.pdf)).
+Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](pdf/poster_icml24.pdf)). This work was presented at [Thoth seminar](https://team.inria.fr/thoth/) ([slides](pdf/slides_retraite_thoth_2024.pdf)).
 
 #### Wasserstein Distributionnally Robust Optimization
  Inspired by the success of entropic regularization in optimal transport, we study the regularization of WDRO ([ESAIM COCV](https://arxiv.org/abs/2205.08826)).
