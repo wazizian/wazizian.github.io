@@ -6,7 +6,7 @@ layout: default
 <!-- Welcome to [Waïss Azizian](https://wazizian.fr)'s personal website! -->
 
 ### About
-I am a PhD student in applied mathematics in Grenoble. I have the honour of having the amazing trio [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/) and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/) as adviors. More precisely, I am at the [LJK lab](https://www-ljk.imag.fr/), which is part of [UGA](https://www.univ-grenoble-alpes.fr/).
+I am a PhD student in machine learning and optimization in Grenoble. I have the honour of having the amazing trio [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/) and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/) as adviors. More precisely, I am at the [LJK lab](https://www-ljk.imag.fr/), which is part of [UGA](https://www.univ-grenoble-alpes.fr/).
 I had the chance to study at [ENS Paris](https://www.ens.psl.eu/) and to graduate from the [MVA master](https://www.master-mva.com/).
 
 ### Contact
@@ -18,7 +18,7 @@ I am in charge of the [team's seminar](https://sites.google.com/view/gorgeous-op
 
 
 ### Research
-My current interest are robust optimization, non-convex stochastic optimization and online learning.
+My current interest are robust optimization, non-convex stochastic optimization and deep learning optimizers.
 
 See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html), [Github](https://github.com/wazizian) and [a resume](pdf/resume.pdf).
 
