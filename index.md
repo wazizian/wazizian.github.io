@@ -9,22 +9,25 @@ layout: default
 I am a PhD student in machine learning and optimization in Grenoble. I have the honour of having the amazing trio [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/) and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/) as adviors. More precisely, I am at the [LJK lab](https://www-ljk.imag.fr/), which is part of [UGA](https://www.univ-grenoble-alpes.fr/).
 I had the chance to study at [ENS Paris](https://www.ens.psl.eu/) and to graduate from the [MVA master](https://www.master-mva.com/).
 
+See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html), [Github](https://github.com/wazizian), [LinkedIn](https://www.linkedin.com/in/wa%C3%AFss-azizian-93420432b/) for more information.
+
 ### Contact
 - Email: waiss (dot) azizian (at) univ-grenoble-alpes (dot) fr
 - Physical: office 143, LJK lab, IMAG building.
 
-I am in charge of the [team's seminar](https://sites.google.com/view/gorgeous-optim/), please get in touch if you would like to present!
-
-
-
 ### Research
-My current interest are robust optimization, non-convex stochastic optimization and deep learning optimizers.
+My current interest are robust optimization, non-convex stochastic optimization and understanding LLM internal mechanisms.
 
-See [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html), [Github](https://github.com/wazizian) and [a resume](pdf/resume.pdf).
 
 #### Stochastic optimization in deep learning
-In our latest work, we seek to answer a simple question: what is the asymptotic distribution of SGD on general non-convex objectives?
-Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](pdf/poster_icml24.pdf)). This work was presented at [Thoth seminar](https://team.inria.fr/thoth/) ([slides](pdf/slides_retraite_thoth_2024.pdf)) and at the [Séminaire de Statistique](https://www.lpsm.paris/seminaires/statp6p7/index) of the LPSM lab in Paris ([slides](pdf/slides_UParis_Oct_2024.pdf)).
+In this line of work, we focus on a simple yet fundamental question: what is the long-run behaviour of stochastic gradient descent (SGD) on non-convex objectives?
+In the first part,  we seek to describe the asymptotic distribution of SGD on general non-convex objectives.
+Leveraging large deviation theory, we obtain a description of the invariant measure of SGD ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](pdf/poster_icml24.pdf)). This work was presented at [Thoth seminar](https://team.inria.fr/thoth/) ([slides](pdf/slides_retraite_thoth_2024.pdf)), at the [Séminaire de Statistique](https://www.lpsm.paris/seminaires/statp6p7/index) of the LPSM lab in Paris ([slides](pdf/slides_UParis_Oct_2024.pdf)) and at the [Séminaire de Probabilités et Statistiques](https://math.univ-cotedazur.fr/laboratoire/seminaires/s%C3%A9minaires-de-l%C3%A9quipe-probabilit%C3%A9s-statistiques) of the Nice University ([slides](pdf/slides_UNice_Dec_2024.pdf)).
+
+In the second part, we focus on estimating the time it takes for SGD to reach the global minimum of a non-convex function. This reveals an intricate interplay between the loss landscape, the noise structure and the behavior of SGD ([ICML 2025](https://arxiv.org/abs/2503.16398), [poster](pdf/poster_icml25.pdf)). 
+
+#### Internal mechanisms of Large Language Models
+I had the chance of working with Michael Kirchhof, Eugene Ndiaye, Louis Bethune, Michal Klein, Pierre Ablin and Marco Cuturi while interning at [Apple Machine Learning Reserach](https://machinelearning.apple.com/). We studied how uncertainty estimates for LLMs behave under distribution shifts ([R2FM Wrokshop@ICML 2025](https://arxiv.org/pdf/2506.08572)).
 
 #### Wasserstein Distributionnally Robust Optimization
  Inspired by the success of entropic regularization in optimal transport, we study the regularization of WDRO ([ESAIM COCV](https://arxiv.org/abs/2205.08826)).
@@ -45,11 +48,7 @@ With [Gauthier Gidel](https://gauthiergidel.github.io/), [Ioannis Mitliagkas](ht
 
 
 ### Teaching
-#### 2023-2024
-- Statistics for biology (second year of bachelor): exercise sessions.
-- Numerical optimization (first year master MSIAM): exercise sessions.
-
-#### 2022-2023
-- Numerical optimization (second year at ENSIMAG): practical sessions in Python/Numpy and exercise sessions.
-- Numerical optimization (first year master MSIAM): practical sessions in Python/Numpy.
-- Numerical analysis (first year ENSIMAG): practical sessions in Python/Numpy.
+- Statistics for biology (second year of bachelor, 2023-2024, 2024-2025): exercise sessions (2023-2024, 2024-2025).
+- Numerical optimization (first year master MSIAM): practical sessions in Python/Numpy (2022-2023) and exercise sessions (2023-2024).
+- Numerical optimization (second year at ENSIMAG): practical sessions in Python/Numpy and exercise sessions (2022-2023).
+- Numerical analysis (first year ENSIMAG): practical sessions in Python/Numpy (2022-2023).
