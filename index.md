@@ -27,7 +27,9 @@ Leveraging large deviation theory, we obtain a description of the invariant meas
 In the second part, we focus on estimating the time it takes for SGD to reach the global minimum of a non-convex function. This reveals an intricate interplay between the loss landscape, the noise structure and the behavior of SGD ([ICML 2025](https://arxiv.org/abs/2503.16398), [poster](pdf/poster_icml25.pdf)). 
 
 #### Internal mechanisms of Large Language Models
-I had the chance of working with Michael Kirchhof, Eugene Ndiaye, Louis Bethune, Michal Klein, Pierre Ablin and Marco Cuturi while interning at [Apple Machine Learning Reserach](https://machinelearning.apple.com/). We studied how uncertainty estimates for LLMs behave under distribution shifts ([R2FM Wrokshop@ICML 2025](https://arxiv.org/pdf/2506.08572)).
+I had the chance of working with Michael Kirchhof, Eugene Ndiaye, Louis Bethune, Michal Klein, Pierre Ablin and Marco Cuturi while interning at [Apple Machine Learning Research](https://machinelearning.apple.com/). We investigate how uncertainty estimates for LLMs behave under distribution shifts ([R2FM Wrokshop@ICML 2025](https://arxiv.org/pdf/2506.08572)).
+While working at [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team), I had the pleasure of collaborating with Ali Hasan to better understand the emergence of in-context learning in transformers. In particular, we study how the different properties of the pretraining distribution impact the in-context learning capabilities of transformers ([arXiv](https://arxiv.org/abs/2510.01163)).
+
 
 #### Wasserstein Distributionnally Robust Optimization
  Inspired by the success of entropic regularization in optimal transport, we study the regularization of WDRO ([ESAIM COCV](https://arxiv.org/abs/2205.08826)).
