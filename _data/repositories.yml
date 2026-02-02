@@ -1,0 +1,11 @@
+github_users:
+  - wazizian
+
+repo_description_lines_max: 2
+
+github_repos:
+  - mlelarge/graph_neural_net
+  - OnlineSampling/OnlineSampling.jl
+  - wazizian/voicetex.nvim
+  - robindar/sysres-os
+  - iutzeler/skwdro

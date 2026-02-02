@@ -1,0 +1,119 @@
+basics:
+  name: "Waïss Azizian"
+  label: "PhD student"
+  email: waiss.azizian@univ-grenoble-alpes.fr
+  url: https://wazizian.fr
+  summary: "Research focus: optimization for deep learning, reliable ML."
+  location:
+    city: Grenoble
+    countryCode: FR
+    address: "Office 143, LJK lab (IMAG, Grenoble)"
+  profiles:
+    - network: Scholar
+      username: oXxTTe8AAAAJ
+      url: https://scholar.google.fr/citations?user=oXxTTe8AAAAJ
+work:
+  - name: "Laboratoire Jean Kuntzmann"
+    position: "PhD"
+    location: "Grenoble, France"
+    startDate: "2022-03-01"
+    summary: |
+      Supervisors: F. Iutzeler, J. Malick, P. Mertikopoulos
+      • Developed and analyzed distributionally robust optimization methods
+      • Established large deviation estimates for the global convergence of neural network training
+  - name: "Morgan Stanley Machine Learning Research"
+    position: "PhD Internship"
+    location: "New York, USA"
+    startDate: "2025-08-01"
+    endDate: "2025-10-01"
+    summary: |
+      Supervisor: Ali Hasan
+      • Investigated the in-context-learning capabilities of Large Language Models
+      • Contributed to internal option pricing algorithms
+  - name: "Apple Machine Learning Research"
+    position: "PhD Internship"
+    location: "Paris, France"
+    startDate: "2025-02-01"
+    endDate: "2025-05-01"
+    summary: |
+      Supervisor: Marco Cuturi
+      • Evaluated the robustness of uncertainty quantification methods for Large Language Models
+  - name: "INRIA"
+    position: "Research Internship"
+    location: "Paris, France"
+    startDate: "2021-11-01"
+    endDate: "2022-02-01"
+    summary: |
+      Supervisor: Marc Lelarge
+      • Developed online parameter estimation methods in state-space models
+  - name: "Mila"
+    position: "Research Internship"
+    location: "Montréal, Canada"
+    startDate: "2019-03-01"
+    endDate: "2019-07-01"
+    summary: |
+      Supervisor: Simon Lacoste-Julien
+      • Analyzed and improved game optimization methods for machine learning
+education:
+  - institution: "École Normale Supérieure Paris-Saclay"
+    location: "Saclay, France"
+    area: "Master in Machine Learning \"Mathematics, Vision, Learning\" (MVA)"
+    studyType: "Master"
+    startDate: "2020-09-01"
+    endDate: "2021-06-01"
+    summary: "Obtained with highest honors"
+  - institution: "École Normale Supérieure de Paris"
+    location: "Paris, France"
+    area: "First year of Master (M.Sc.) in both Mathematics and Computer Science"
+    studyType: "Master"
+    startDate: "2018-09-01"
+    endDate: "2020-06-01"
+  - institution: "École Normale Supérieure de Paris"
+    location: "Paris, France"
+    area: "Licences (B.Sc.) in both Mathematics and Computer Science"
+    studyType: "Bachelor"
+    startDate: "2017-09-01"
+    endDate: "2018-06-01"
+  - institution: "Lycée Louis-le-Grand"
+    location: "Paris, France"
+    area: "Preparatory Classes for Grandes Écoles (CPGE) in Mathematics and Physics"
+    studyType: "Preparatory Classes"
+    startDate: "2015-09-01"
+    endDate: "2017-07-01"
+skills:
+  - name: Deep Learning Frameworks
+    keywords:
+      - PyTorch
+      - JAX/Flax
+      - vLLM
+  - name: Research Tools
+    keywords:
+      - Git
+      - Hydra
+      - Docker
+      - Singularity
+  - name: High-Performance Computing
+    keywords:
+      - Linux
+      - SLURM
+      - OAR
+      - CUDA
+      - GPU scheduling
+      - cluster infrastructure
+  - name: Mathematical Expertise
+    keywords:
+      - Probability
+      - statistics
+      - optimization
+      - stochastic calculus
+      - large deviations
+volunteer:
+  - organization: "Academic Service"
+    position: "Reviewer"
+    summary: "Reviewer for NeurIPS, ICML, ICLR, Mathematical Programming, SIAM J. Optimization"
+  - organization: "Mentoring"
+    position: "Research Supervisor"
+    summary: "Mentored junior PhD students on research projects in robust optimization and large deviations"
+  - organization: "Université Grenoble Alpes"
+    position: "Teaching Assistant"
+    summary: "Numerical Optimization (1st year MSc.), Statistics for Biology (2nd year BSc.)"
