@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Research highlights, grouped as in the legacy site, with links to papers and slides.",
+          description: "Research contributions towards a principled understanding of optimization dynamics in deep learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
