@@ -9,7 +9,7 @@ last_name: Azizian
 contact_note: >
   Office 143, LJK lab (IMAG, Grenoble). Prefer email at waiss.azizian@univ-grenoble-alpes.fr.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research updates from Waïss Azizian on stochastic optimization, distributionally robust learning, and large language models.
+  Waïss Azizian's Personal Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

@@ -6,4 +6,6 @@ importance: 6
 category: research
 ---
 
-With [Gauthier Gidel](https://gauthiergidel.github.io/), [Ioannis Mitliagkas](https://mitliagkas.github.io/) and [Simon Lacoste-Julien](https://www.iro.umontreal.ca/~slacoste/), we propose a tight and unified analysis of gradient-based methods in games ([AISTATS 20](https://arxiv.org/abs/1906.05945), [slides](/assets/pdf/slides_aistats.pdf)) and leverage matrix iteration theory to study accelerated methods in games ([AISTATS 20](https://arxiv.org/abs/2001.00602)).
+To address the challenges of multi-agent optimization, the machine learning community has started designing bespoke first-order methods for games. With [Gauthier Gidel](https://gauthiergidel.github.io/), [Ioannis Mitliagkas](https://mitliagkas.github.io/) and [Simon Lacoste-Julien](https://www.iro.umontreal.ca/~slacoste/), we provided the first tight and unified analysis of several gradient-based methods that showcased their different convergence mechanisms ([AISTATS 20](https://arxiv.org/abs/1906.05945), [slides](/assets/pdf/slides_aistats.pdf)).
+
+We also tackled the question of possible acceleration of these methods, providing both lower-bounds for general classes of games and the first momentum-accelerated methods for games by leveraging matrix iteration theory ([AISTATS 20](https://arxiv.org/abs/2001.00602)).
