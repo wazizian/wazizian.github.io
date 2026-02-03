@@ -14,6 +14,7 @@ profile:
     <p>Grenoble, France</p>
 
 selected_papers: 3
+all_publications: false
 social: true
 
 announcements:
@@ -25,17 +26,21 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in machine learning and optimization at the [LJK lab](https://www-ljk.imag.fr/) within [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). I am fortunate to be advised by [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/), and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/).
+I am a final-year PhD student in machine learning and optimization at the [LJK lab](https://www-ljk.imag.fr/) within [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). I am fortunate to be advised by [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/), and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/).
 Before starting my PhD, I studied at [ENS Paris](https://www.ens.psl.eu/) and graduated from the [MVA master](https://www.master-mva.com/).
 
 The aim of my research is two-fold: (i) advancing our understanding of the intricate phenomena at play in deep learning, using tools from optimization, dynamical systems, probability and statistics; (ii) leveraging this knowledge to deliver more reliable and efficient machine learning systems.
 
-### Contact
+**Keywords:** stochastic optimization, deep learning, reliable ML, LLMs
+
+**Resume:** [PDF](/assets/pdf/resume.pdf) • [webpage](/cv/)
+ 
+### contact
 
 - Email: [waiss.azizian@univ-grenoble-alpes.fr](mailto:waiss.azizian@univ-grenoble-alpes.fr)
 - Office: Room 143, LJK lab, IMAG building, Grenoble, France
 
-### Research Focus
+### research
 
 My research spans four main areas that contribute to a principled understanding of deep learning systems and their optimization dynamics.
 Details on each research area live on the [projects page](/projects/).

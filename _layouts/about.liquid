@@ -64,6 +64,17 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- All publications -->
+    {% if page.all_publications %}
+      <br>
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">all publications</a>
+      </h2>
+      <div class="publications">
+        {% bibliography %}
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
