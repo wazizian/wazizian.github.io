@@ -13,3 +13,13 @@ Wasserstein Distributionally Robust Optimization (WDRO) has emerged as a powerfu
 **Generalization and robustness guarantees.** A key appeal of WDRO is its strong generalization guarantees: the WDRO objective provides an exact upper-bound on the true risk when samples are large enough. However, this approach suffers from the curse of dimensionality. We provided new generalization bounds for WDRO that don't suffer from this curse, showing that the WDRO training objective provides an exact upper-bound on the true risk with high probability for general model classes, even under distribution shifts at inference time, without sample complexity scaling exponentially with data dimension ([NeurIPS 2023](https://arxiv.org/abs/2305.17076), [slides](/assets/pdf/slides_neurips_2023.pdf)).
 
 Early iterations were shared at the [Erice 2022 workshop](https://workshopsperice2022.github.io/) ([slides](/assets/pdf/slides_sicile.pdf)), then refined for [FOCM 2023](https://focm2023.org/) ([poster](/assets/pdf/poster_wdro.pdf)) and [NeurIPS@Paris 2023](https://neuripsinparis.github.io/neurips2023paris/) ([slides](/assets/pdf/slides_neurips_in_paris_2023.pdf)).
+
+
+
+
+
+
+## publications
+<div class="publications">
+{% bibliography --query @*[project=wasserstein-dro] --group_by none %}
+</div>

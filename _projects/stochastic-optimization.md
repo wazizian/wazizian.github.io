@@ -23,3 +23,13 @@ $$\exp\left(\frac{E(x)}{\gamma}\right)$$
 where $$E(x)$$ is a geometric measure capturing both the loss landscape difficulty and noise statistics. This demonstrates that SGD's practical success stems from favorable loss geometry, particularly near initialization ([ICML 2025](https://arxiv.org/abs/2503.16398), [poster](/assets/pdf/poster_icml25.pdf)).
 
 These results have been presented at the Thoth seminar ([slides](/assets/pdf/slides_retraite_thoth_2024.pdf)), the LPSM statistics seminar ([slides](/assets/pdf/slides_UParis_Oct_2024.pdf)), Université Côte d'Azur ([slides](/assets/pdf/slides_UNice_Dec_2024.pdf)), Morgan Stanley's ML Research seminar ([slides](/assets/pdf/slides_MS_Dec_2025.pdf)), and Inria's Argo team ([slides](/assets/pdf/slides_Argo_Dec_2025.pdf)).
+
+
+
+
+
+
+## publications
+<div class="publications">
+{% bibliography --query @*[project=stochastic-optimization] --group_by none %}
+</div>

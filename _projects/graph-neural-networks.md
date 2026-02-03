@@ -11,3 +11,11 @@ With [Marc Lelarge](https://www.di.ens.fr/~lelarge/) I analyzed the approximatio
 The work clarifies how architectural constraints interact with group symmetries, and when additional structure is required to model combinatorial problems.
 
 We showcased the findings at the [MIPT-UGA workshop](https://sites.google.com/view/mipt-uga-ai-workshop/home) and the Thoth seminar ([slides](/assets/pdf/slides_gnn.pdf)).
+
+
+
+
+## publications
+<div class="publications">
+{% bibliography --query @*[project=graph-neural-networks] --group_by none %}
+</div>
