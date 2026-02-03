@@ -13,8 +13,8 @@ profile:
     <p>Université Grenoble Alpes</p>
     <p>Grenoble, France</p>
 
-selected_papers: 3
-all_publications: false
+selected_papers: false
+all_publications: true
 social: true
 
 announcements:
@@ -43,13 +43,11 @@ The aim of my research is two-fold: (i) advancing our understanding of the intri
 ### research
 
 My research spans four main areas that contribute to a principled understanding of deep learning systems and their optimization dynamics.
-Details on each research area live on the [projects page](/projects/).
-
+You can find a list of my publications on the [publications page](/publications/).
+Here are some of my main research projects:
 - [Stochastic optimization in deep learning](/projects/stochastic-optimization/)
 - [Internal mechanisms of large language models](/projects/internal-llm-mechanisms/)
 - [Wasserstein distributionally robust optimization](/projects/wasserstein-dro/)
 - [Last-iterate convergence of mirror methods](/projects/mirror-methods/)
-- [Graph neural networks](/projects/graph-neural-networks/)
-- [Smooth game optimization for machine learning](/projects/smooth-game-optimization/)
 
 You can browse my research activity on [arXiv](https://arxiv.org/a/azizian_w_1.html), [Google Scholar](https://scholar.google.fr/citations?user=oXxTTe8AAAAJ&hl=fr), [DBLP](https://dblp.org/pid/243/3135.html), [GitHub](https://github.com/wazizian), and [LinkedIn](https://www.linkedin.com/in/wa%C3%AFss-azizian-93420432b/).
