@@ -49,6 +49,11 @@ Materials: [slides](/assets/pdf/slides_gnn.pdf)
 ## Conference and Workshop Presentations
 
 
+**SMAI MODE 2026** — *Nice, France*
+*What is the long-run distribution of stochastic gradient descent? A large deviations analysis*
+Materials: [slides](/assets/pdf/slides_smai_mode2026.pdf) • [paper](https://arxiv.org/abs/2406.09241)
+
+
 **ICML 2025** — *Upcoming*
 *The global convergence time of stochastic gradient descent in non-convex landscapes*
 Materials: [poster](/assets/pdf/poster_icml25.pdf) • [paper](https://arxiv.org/abs/2503.16398)
