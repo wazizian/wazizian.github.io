@@ -49,9 +49,9 @@ Materials: [slides](/assets/pdf/slides_gnn.pdf)
 ## Conference and Workshop Presentations
 
 
-**SMAI MODE 2026** — *Nice, France*
+**SMAI MODE 2026** — *Nice, France* — **Prix Dodu (best student talk)**
 *What is the long-run distribution of stochastic gradient descent? A large deviations analysis*
-Materials: [slides](/assets/pdf/slides_smai_mode2026.pdf) • [paper](https://arxiv.org/abs/2406.09241)
+Materials: [slides](/assets/pdf/slides_smai_mode2026.pdf) • [paper](https://arxiv.org/abs/2406.09241) • [announcement](https://www.linkedin.com/posts/samuelvaiter_les-journ%C3%A9es-mode-2026-se-sont-cl%C3%B4tur%C3%A9es-activity-7441904876135178241-7hB1)
 
 
 **ICML 2025** — *Upcoming*

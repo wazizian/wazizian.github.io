@@ -14,7 +14,7 @@ We study the long-run behavior of stochastic gradient descent (SGD) on non-conve
 - **What is the long-run distribution of stochastic gradient descent?** ([ICML 2024](https://arxiv.org/abs/2406.09241), [poster](/assets/pdf/poster_icml24.pdf))
 - **The global convergence time of stochastic gradient descent in non-convex landscapes** ([ICML 2025](https://arxiv.org/abs/2503.16398), [poster](/assets/pdf/poster_icml25.pdf))
 
-**Talks:** Thoth seminar ([slides](/assets/pdf/slides_retraite_thoth_2024.pdf)), LPSM Paris ([slides](/assets/pdf/slides_UParis_Oct_2024.pdf)), Université Côte d'Azur ([slides](/assets/pdf/slides_UNice_Dec_2024.pdf)), Morgan Stanley ML Research ([slides](/assets/pdf/slides_MS_Dec_2025.pdf)), Inria Argo team ([slides](/assets/pdf/slides_Argo_Dec_2025.pdf))
+**Talks:** Thoth seminar ([slides](/assets/pdf/slides_retraite_thoth_2024.pdf)), LPSM Paris ([slides](/assets/pdf/slides_UParis_Oct_2024.pdf)), Université Côte d'Azur ([slides](/assets/pdf/slides_UNice_Dec_2024.pdf)), Morgan Stanley ML Research ([slides](/assets/pdf/slides_MS_Dec_2025.pdf)), Inria Argo team ([slides](/assets/pdf/slides_Argo_Dec_2025.pdf)), SMAI MODE 2026 ([slides](/assets/pdf/slides_smai_mode2026.pdf), [Prix Dodu](https://www.linkedin.com/posts/samuelvaiter_les-journ%C3%A9es-mode-2026-se-sont-cl%C3%B4tur%C3%A9es-activity-7441904876135178241-7hB1))
 
 ## Internal mechanisms of large language models
 
