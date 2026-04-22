@@ -22,7 +22,7 @@ $$\exp\left(\frac{E(x)}{\gamma}\right)$$
 
 where $$E(x)$$ is a geometric measure capturing both the loss landscape difficulty and noise statistics. This demonstrates that SGD's practical success stems from favorable loss geometry, particularly near initialization ([ICML 2025](https://arxiv.org/abs/2503.16398), [poster](/assets/pdf/poster_icml25.pdf)).
 
-These results have been presented at the Thoth seminar ([slides](/assets/pdf/slides_retraite_thoth_2024.pdf)), the LPSM statistics seminar ([slides](/assets/pdf/slides_UParis_Oct_2024.pdf)), Université Côte d'Azur ([slides](/assets/pdf/slides_UNice_Dec_2024.pdf)), Morgan Stanley's ML Research seminar ([slides](/assets/pdf/slides_MS_Dec_2025.pdf)), Inria's Argo team ([slides](/assets/pdf/slides_Argo_Dec_2025.pdf)), and SMAI MODE 2026 ([slides](/assets/pdf/slides_smai_mode2026.pdf)).
+These results have been presented at the Thoth seminar ([slides](/assets/pdf/slides_retraite_thoth_2024.pdf)), the LPSM statistics seminar ([slides](/assets/pdf/slides_UParis_Oct_2024.pdf)), Université Côte d'Azur ([slides](/assets/pdf/slides_UNice_Dec_2024.pdf)), Morgan Stanley's ML Research seminar ([slides](/assets/pdf/slides_MS_Dec_2025.pdf)), Inria's Argo team ([slides](/assets/pdf/slides_Argo_Dec_2025.pdf)), SMAI MODE 2026 ([slides](/assets/pdf/slides_smai_mode2026.pdf)), and ENS Lyon MLSP seminar ([seminar page](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp2026_%20Azizian)).
 
 
 

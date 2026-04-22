@@ -15,6 +15,9 @@ latest_posts:
 
 ## Invited Seminars
 
+**ENS Lyon MLSP Seminar** *(April 2026)*
+*The Long-Run Behavior of SGD in Non-Convex Landscapes: A Large Deviation Analysis* — Lyon, France
+Materials: [seminar page](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp2026_%20Azizian)
 
 **Morgan Stanley Machine Learning Research** *(December 2025)*
 *What is the lon-run behaviour of SGD* — New York, USA
@@ -92,5 +95,4 @@ Materials: [workshop page](https://sites.google.com/view/mipt-uga-ai-workshop/ho
 **AISTATS 2020** — *Online*
 *A tight and unified analysis of gradient-based methods for a whole spectrum of differentiable games*
 Materials: [slides](/assets/pdf/slides_aistats.pdf) • [paper](https://arxiv.org/abs/1906.05945)
-
 
