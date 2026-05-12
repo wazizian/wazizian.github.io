@@ -15,6 +15,10 @@ latest_posts:
 
 ## Invited Seminars
 
+**MaLGa, Università di Genova** *(May 2026)*
+*The Long-Run Behavior of SGD in Non-Convex Landscapes: A Large Deviation Analysis* — Genoa, Italy
+Materials: [slides](/assets/pdf/slides_malga2026.pdf)
+
 **ENS Lyon MLSP Seminar** *(April 2026)*
 *The Long-Run Behavior of SGD in Non-Convex Landscapes: A Large Deviation Analysis* — Lyon, France
 Materials: [seminar page](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp2026_%20Azizian)
@@ -41,7 +45,7 @@ Materials: [seminar page](https://www.lpsm.paris/seminaires/statp6p7/index) • 
 Materials: [seminar page](https://team.inria.fr/thoth/) • [slides](/assets/pdf/slides_retraite_thoth_2024.pdf)
 
 **SMAI MODE Conference** *(April 2024)*
-*Mirror methods: deterministic analysis* — Marseille, France
+*Mirror methods: deterministic analysis* — Lyon, France
 Materials: [slides](/assets/pdf/slides_smai_mode2024.pdf)
 
 
@@ -95,4 +99,3 @@ Materials: [workshop page](https://sites.google.com/view/mipt-uga-ai-workshop/ho
 **AISTATS 2020** — *Online*
 *A tight and unified analysis of gradient-based methods for a whole spectrum of differentiable games*
 Materials: [slides](/assets/pdf/slides_aistats.pdf) • [paper](https://arxiv.org/abs/1906.05945)
-
