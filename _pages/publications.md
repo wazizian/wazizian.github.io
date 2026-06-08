@@ -21,7 +21,7 @@ We study the long-run behavior of stochastic gradient descent (SGD) on non-conve
 Understanding the robustness of uncertainty quantification methods and in-context learning capabilities through targeted experiments.
 
 - **The geometries of truth are orthogonal across tasks** ([R2FM Workshop@ICML 2025](https://arxiv.org/pdf/2506.08572)) — Work at [Apple ML Research](https://machinelearning.apple.com/)
-- **How does the pretraining distribution shape in-context learning?** ([arXiv](https://arxiv.org/abs/2510.01163)) — Work at [Morgan Stanley ML Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team)
+- **How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off** ([ICML 2026](/assets/pdf/paper_icml2026_pretraining_distribution.pdf)) — Work at [Morgan Stanley ML Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team)
 
 ## Wasserstein distributionally robust optimization
 
