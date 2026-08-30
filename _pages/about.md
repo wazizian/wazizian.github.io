@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in machine learning and optimization at Université Grenoble Alpes
+subtitle:
 
 profile:
   align: right
   image: waiss-profile-square.jpg
   image_circular: true
   more_info: >
-    <p>Office 143 · LJK lab (IMAG)</p>
-    <p>Université Grenoble Alpes</p>
-    <p>Grenoble, France</p>
+    <p>Paris, France</p>
+    <p><a href="mailto:waiss.azizian@gmail.com">waiss.azizian@gmail.com</a></p>
 
 selected_papers: false
 all_publications: true
@@ -26,7 +25,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a final-year PhD student in machine learning and optimization at the [LJK lab](https://www-ljk.imag.fr/) within [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/). I am fortunate to be advised by [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/), and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/).
+I am an ML Researcher at [Morgan Stanley ML Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) in Paris, which I joined in July 2026. My work there builds on my research on the optimization and reliability of modern machine learning systems.
+
+Before that, I completed my PhD in machine learning and optimization at the [LJK lab](https://www-ljk.imag.fr/) within [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), defended in June 2026. I was fortunate to be advised by [Franck Iutzeler](https://www.iutzeler.org/), [Jérôme Malick](https://membres-ljk.imag.fr/Jerome.Malick/), and [Panayotis Mertikopoulos](https://polaris.imag.fr/panayotis.mertikopoulos/).
+My committee was made of [Francis Bach](https://www.di.ens.fr/~fbach/) and [John Duchi](https://web.stanford.edu/~jduchi/) as reviewers, and [Niao He](https://odi.inf.ethz.ch/niao.html), [Anatoli Juditsky](https://www-ljk.imag.fr/membres/Anatoli.Juditsky/), [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) and [Gabriel Peyré](https://www.gpeyre.com/) as examiners, whom I thank again for accepting to be part of it.
 Before starting my PhD, I studied at [ENS Paris](https://www.ens.psl.eu/) and graduated from the [MVA master](https://www.master-mva.com/).
 
 The aim of my research is two-fold: (i) advancing our understanding of the intricate phenomena at play in deep learning, using tools from optimization, dynamical systems, probability and statistics; (ii) leveraging this knowledge to deliver more reliable and efficient machine learning systems.
@@ -37,8 +39,7 @@ The aim of my research is two-fold: (i) advancing our understanding of the intri
  
 ### contact
 
-- Email: [waiss.azizian@univ-grenoble-alpes.fr](mailto:waiss.azizian@univ-grenoble-alpes.fr)
-- Office: Room 143, LJK lab, IMAG building, Grenoble, France
+- Email (preferred): [waiss.azizian@gmail.com](mailto:waiss.azizian@gmail.com)
 
 ### research
 

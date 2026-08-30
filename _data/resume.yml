@@ -1,27 +1,33 @@
 basics:
   name: "Waïss Azizian"
-  label: "PhD student"
-  email: waiss.azizian@univ-grenoble-alpes.fr
+  label: "ML Researcher at Morgan Stanley ML Research"
+  email: waiss.azizian@gmail.com
   url: https://wazizian.fr
   summary: "Research focus: optimization for deep learning, reliable ML."
   location:
-    city: Grenoble
+    city: Paris
     countryCode: FR
-    address: "Office 143, LJK lab (IMAG, Grenoble)"
   profiles:
     - network: Scholar
       username: oXxTTe8AAAAJ
       url: https://scholar.google.fr/citations?user=oXxTTe8AAAAJ
 work:
+  - name: "Morgan Stanley ML Research"
+    position: "ML Researcher"
+    location: "Paris, France"
+    startDate: "2026-07-23"
+    summary: |
+      • Research on the optimization and reliability of machine learning systems
   - name: "Laboratoire Jean Kuntzmann"
     position: "PhD"
     location: "Grenoble, France"
     startDate: "2022-03-01"
+    endDate: "2026-06-16"
     summary: |
       Supervisors: F. Iutzeler, J. Malick, P. Mertikopoulos
       • Developed and analyzed distributionally robust optimization methods
       • Established large deviation estimates for the global convergence of neural network training
-  - name: "Morgan Stanley Machine Learning Research"
+  - name: "Morgan Stanley ML Research"
     position: "PhD Internship"
     location: "New York, USA"
     startDate: "2025-08-01"
@@ -30,7 +36,7 @@ work:
       Supervisor: Ali Hasan
       • Investigated the in-context-learning capabilities of Large Language Models
       • Contributed to internal option pricing algorithms
-  - name: "Apple Machine Learning Research"
+  - name: "Apple ML Research"
     position: "PhD Internship"
     location: "Paris, France"
     startDate: "2025-02-01"

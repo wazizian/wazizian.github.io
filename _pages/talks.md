@@ -13,6 +13,12 @@ latest_posts:
   enabled: false
 ---
 
+## PhD Defense
+
+**Université Grenoble Alpes** *(June 2026)*
+*Stochastic Optimization Algorithms in Machine Learning: Dynamics, Convergence, Generalization* — Grenoble, France
+Materials: [slides](/assets/pdf/slides_defense_2026.pdf)
+
 ## Invited Seminars
 
 **MaLGa, Università di Genova** *(May 2026)*
@@ -23,7 +29,7 @@ Materials: [slides](/assets/pdf/slides_malga2026.pdf)
 *The Long-Run Behavior of SGD in Non-Convex Landscapes: A Large Deviation Analysis* — Lyon, France
 Materials: [seminar page](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp2026_%20Azizian)
 
-**Morgan Stanley Machine Learning Research** *(December 2025)*
+**Morgan Stanley ML Research** *(December 2025)*
 *What is the lon-run behaviour of SGD* — New York, USA
 Materials: [slides](/assets/pdf/slides_MS_Dec_2025.pdf)
 

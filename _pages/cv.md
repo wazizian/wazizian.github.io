@@ -12,25 +12,40 @@ cv_format: render_cv
 ---
 
 **Research focus:** Optimization for deep learning, reliable ML
-**Graduation date:** May 2026
+**Graduation date:** June 2026
+
+---
+
+## PhD Thesis
+
+**Stochastic Optimization Algorithms in Machine Learning: Dynamics, Convergence, Generalization**
+Defended on June 16, 2026 at Université Grenoble Alpes
+
+*Advisors:* Franck Iutzeler (Université de Toulouse), Jérôme Malick (CNRS, Université Grenoble Alpes), Panayotis Mertikopoulos (CNRS, Université Grenoble Alpes)
+*Reviewers:* Francis Bach (Inria, École Normale Supérieure), John Duchi (Stanford University)
+*Examiners:* Niao He (ETH Zürich), Anatoli Juditsky (Université Grenoble Alpes), Julien Mairal (Inria, Université Grenoble Alpes), Gabriel Peyré (CNRS, École Normale Supérieure)
 
 ---
 
 ## Research Experience
 
+**Morgan Stanley ML Research** — *Paris, France*
+ML Researcher *(July 2026 - Current)*
+- Research on the optimization and reliability of machine learning systems
+
 **Laboratoire Jean Kuntzmann** — *Grenoble, France*
-PhD Student *(March 2022 - Current)*
+PhD *(March 2022 - June 2026)*
 Supervisors: F. Iutzeler, J. Malick, P. Mertikopoulos
 - Developed and analyzed distributionally robust optimization methods
 - Established large deviation estimates for the global convergence of neural network training
 
-**Morgan Stanley Machine Learning Research** — *New York, USA*
+**Morgan Stanley ML Research** — *New York, USA*
 PhD Internship *(August 2025 - October 2025)*
 Supervisor: Ali Hasan
 - Investigated the in-context-learning capabilities of Large Language Models
 - Contributed to internal option pricing algorithms
 
-**Apple Machine Learning Research** — *Paris, France*
+**Apple ML Research** — *Paris, France*
 PhD Internship *(February 2025 - May 2025)*
 Supervisor: Marco Cuturi
 - Evaluated the robustness of uncertainty quantification methods for Large Language Models
