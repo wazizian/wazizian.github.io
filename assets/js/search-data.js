@@ -73,13 +73,13 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-the-global-convergence-time-of-stochastic-gradient-descent-in-non-convex-landscapes-was-accepted-at-icml-2025-preprint-available",
           title: 'Our paper “The global convergence time of stochastic gradient descent in non-convex landscapes”...',
           description: "",
-          section: "News",},{id: "news-completed-my-phd-internship-at-apple-machine-learning-research-in-paris-working-on-uncertainty-quantification-methods-for-large-language-models-in-marco-cuturi-s-team-see-our-prepint",
-          title: 'Completed my PhD internship at Apple Machine Learning Research in Paris, working on...',
+          section: "News",},{id: "news-completed-my-phd-internship-at-apple-ml-research-in-paris-working-on-uncertainty-quantification-methods-for-large-language-models-in-marco-cuturi-s-team-see-our-prepint",
+          title: 'Completed my PhD internship at Apple ML Research in Paris, working on uncertainty...',
           description: "",
           section: "News",},{id: "news-wrapped-up-my-internship-at-morgan-stanley-ml-research-new-york-where-i-investigated-in-context-learning-capabilities-of-llms-see-our-paper",
           title: 'Wrapped up my internship at Morgan Stanley ML Research, New York, where I...',
           description: "",
-          section: "News",},{id: "news-delivered-an-invited-seminar-on-stochastic-optimization-in-deep-learning-at-morgan-stanley-machine-learning-research-new-york-slides",
+          section: "News",},{id: "news-delivered-an-invited-seminar-on-stochastic-optimization-in-deep-learning-at-morgan-stanley-ml-research-new-york-slides",
           title: 'Delivered an invited seminar on stochastic optimization in deep learning at Morgan Stanley...',
           description: "",
           section: "News",},{id: "news-presented-our-work-on-the-lon-run-behaviour-of-sgd-on-non-convex-landscapes-to-the-inria-argo-team-in-paris-slides",
@@ -99,6 +99,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-from-my-morgan-stanley-ml-research-internship-how-does-the-pretraining-distribution-shape-in-context-learning-a-fundamental-trade-off-was-accepted-at-icml-2026-paper",
           title: 'Our paper from my Morgan Stanley ML Research internship, “How Does the Pretraining...',
+          description: "",
+          section: "News",},{id: "news-i-defended-my-phd-thesis-stochastic-optimization-algorithms-in-machine-learning-dynamics-convergence-generalization-at-université-grenoble-alpes-slides",
+          title: 'I defended my PhD thesis, “Stochastic Optimization Algorithms in Machine Learning: Dynamics, Convergence,...',
+          description: "",
+          section: "News",},{id: "news-i-joined-the-morgan-stanley-ml-research-team-in-paris-as-an-ml-researcher",
+          title: 'I joined the Morgan Stanley ML Research team in Paris as an ML...',
           description: "",
           section: "News",},{id: "projects-expressive-power-of-invariant-and-equivariant-gnns",
           title: 'Expressive power of invariant and equivariant GNNs',
@@ -184,7 +190,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%77%61%69%73%73.%61%7A%69%7A%69%61%6E@%75%6E%69%76-%67%72%65%6E%6F%62%6C%65-%61%6C%70%65%73.%66%72", "_blank");
+          window.open("mailto:%77%61%69%73%73.%61%7A%69%7A%69%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
